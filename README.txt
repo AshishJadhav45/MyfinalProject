@@ -1,17 +1,22 @@
+<html> 
+<head>
+<body>
+
 
 TITLE: 
 Education - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DESIGNED & DEVELOPED by Jadhav Ashish vilas 
 
 
-CREDITS:
+Website: Paying guest System
+Twitter: https://twitter.com/ImAshJadhav
 
+
+
+
+<P> <h5> CREDITS <h5>
 Bootstrap
 http://getbootstrap.com/
 
@@ -59,4 +64,8 @@ http://dimsemenov.com/plugins/magnific-popup/
 
 Demo Images:
 http://unsplash.com
+</p>
 
+</html> 
+</head>
+</body>
