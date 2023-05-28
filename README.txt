@@ -1,8 +1,4 @@
-<html> 
-<head>
-<body>
-
-
+<h3>
 TITLE: 
 Education - 100% Fully Responsive Free HTML5 Bootstrap Template
 
@@ -14,7 +10,7 @@ Website: Paying guest System
 Twitter: https://twitter.com/ImAshJadhav
 
 
-
+</h3>
 
 <P> <h5> CREDITS <h5>
 Bootstrap
@@ -66,6 +62,4 @@ Demo Images:
 http://unsplash.com
 </p>
 
-</html> 
-</head>
-</body>
+
